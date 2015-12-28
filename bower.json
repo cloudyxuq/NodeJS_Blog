@@ -1,0 +1,25 @@
+{
+  "name": "NodeJS_Blog",
+  "description": "Test project for develop Blog for angularjs+express4+mongodb",
+  "main": "",
+  "authors": [
+    "Tinker <cloudyxuq@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.8",
+    "bootstrap": "~3.3.6",
+    "d3": "~3.5.12"
+  }
+}
